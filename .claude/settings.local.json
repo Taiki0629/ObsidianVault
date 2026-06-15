@@ -1,0 +1,9 @@
+{
+  "enabledMcpjsonServers": [
+    "filesystem",
+    "fetch",
+    "sequential-thinking",
+    "obsidian",
+    "git"
+  ]
+}
